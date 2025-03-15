@@ -1,22 +1,22 @@
 #Блоки
-tile.retro_sophisticated_backpacks.backpack_leather.name=Кожаный Рюкзак
-tile.retro_sophisticated_backpacks.backpack_iron.name=Железный Рюкзак
-tile.retro_sophisticated_backpacks.backpack_gold.name=Золотой Рюкзак
-tile.retro_sophisticated_backpacks.backpack_diamond.name=Алмазный Рюкзак
-tile.retro_sophisticated_backpacks.backpack_obsidian.name=Обсидиановый Рюкзак
+tile.retro_sophisticated_backpacks.backpack_leather.name=Кожаный рюкзак
+tile.retro_sophisticated_backpacks.backpack_iron.name=Железный рюкзак
+tile.retro_sophisticated_backpacks.backpack_gold.name=Золотой рюкзак
+tile.retro_sophisticated_backpacks.backpack_diamond.name=Алмазный рюкзак
+tile.retro_sophisticated_backpacks.backpack_obsidian.name=Обсидиановый рюкзак
 
 #Предметы
-item.retro_sophisticated_backpacks.upgrade_base.name=База для улучшений
-item.retro_sophisticated_backpacks.stack_upgrade_starter_tier.name=Начальный уровень улучшения стаков
-item.retro_sophisticated_backpacks.stack_upgrade_tier_1.name=Улучшение стаков Уровень 1
-item.retro_sophisticated_backpacks.stack_upgrade_tier_2.name=Улучшение стаков Уровень 2
-item.retro_sophisticated_backpacks.stack_upgrade_tier_3.name=Улучшение стаков Уровень 3
-item.retro_sophisticated_backpacks.stack_upgrade_tier_4.name=Улучшение стаков Уровень 4
-item.retro_sophisticated_backpacks.crafting_upgrade.name=Улучшение Крафта
-item.retro_sophisticated_backpacks.inception_upgrade.name=Улучшение Инцепции
+item.retro_sophisticated_backpacks.upgrade_base.name=Шаблон улучшения
+item.retro_sophisticated_backpacks.stack_upgrade_starter_tier.name=Улучшение «Переполнение Ур. 0»
+item.retro_sophisticated_backpacks.stack_upgrade_tier_1.name=Улучшение «Переполнение Ур. 1»
+item.retro_sophisticated_backpacks.stack_upgrade_tier_2.name=Улучшение «Переполнение Ур. 2»
+item.retro_sophisticated_backpacks.stack_upgrade_tier_3.name=Улучшение «Переполнение Ур. 3»
+item.retro_sophisticated_backpacks.stack_upgrade_tier_4.name=Улучшение «Переполнение Ур. 4»
+item.retro_sophisticated_backpacks.crafting_upgrade.name=Улучшение: «Верстак»
+item.retro_sophisticated_backpacks.inception_upgrade.name=Улучшение «Внедрение»
 
 #Творческие вкладки
-itemGroup.retro_sophisticated_backpacks.creative_tab=Ретро Современный Рюкзак
+itemGroup.retro_sophisticated_backpacks.creative_tab=Retro Sophisticated Backpacks
 
 #Всплывающие подсказки (Tooltips)
 retro_sophisticated_backpacks.tooltip.backpack.inventory_size=Размер инвентаря: %d
@@ -25,11 +25,11 @@ retro_sophisticated_backpacks.tooltip.backpack.stack_multiplier=-> Множит�
 
 retro_sophisticated_backpacks.tooltip.upgrade_base=Ничего не делает! Можете положить в слоты для улучшений!
 
-retro_sophisticated_backpacks.tooltip.stack_upgrade=Умножает размер стака на %d
+retro_sophisticated_backpacks.tooltip.stack_upgrade=Умножает количество стаков, хранимых в слоте инвентаря, на %d
 
-retro_sophisticated_backpacks.tooltip.crafting_upgrade=Добавляет дополнительную сетку крафта на боковую часть рюкзака
+retro_sophisticated_backpacks.tooltip.crafting_upgrade=Позволяет создавать предметы в отдельной вкладке верстака
 
-retro_sophisticated_backpacks.tooltip.inception_upgrade=Позволяет рюкзакам храниться внутри других рюкзаков
+retro_sophisticated_backpacks.tooltip.inception_upgrade=Позволяет рюкзаку хранить в себе другие рюкзаки
 
 retro_sophisticated_backpacks.tooltip.shift_to_reveal=<Shift для отображения>
 
